@@ -179,7 +179,7 @@ Authorization: Bearer <token>
 | --- | --- | --- |
 | `DB_URL` | MySQL connection URL | `jdbc:mysql://localhost:3306/hospital_management_db?createDatabaseIfNotExist=true` |
 | `DB_USERNAME` | MySQL username | `root` |
-| `DB_PASSWORD` | MySQL password | Empty |
+| `DB_PASSWORD` | MySQL password | `root` |
 | `JWT_SECRET` | Secret key used for JWT signing | Local development secret |
 
 ## GitHub Repository
