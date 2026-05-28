@@ -1,6 +1,17 @@
 # Hospital Management System
 
-A full-stack hospital management application for managing users, doctors, patients, and appointments. The project includes a Spring Boot REST API backend and a React + Vite frontend with protected routes and role-based access.
+A production-ready full-stack Hospital Management System with secure JWT authentication, role-based dashboards, and real-time appointment management.
+
+🚀 Built using Spring Boot + React (Vite)
+
+## 💡 Why This Project?
+
+This project was built to simulate real-world hospital workflows and demonstrate full-stack development skills including authentication, role-based access control, and REST API design.
+
+## 🧠 System Architecture
+
+Frontend (React + Redux) → REST API (Spring Boot) → MySQL Database  
+Authentication handled via JWT tokens
 
 ## Screenshots
 
@@ -204,10 +215,11 @@ Authorization: Bearer <token>
 | `DB_PASSWORD` | MySQL password | `root` |
 | `JWT_SECRET` | Secret key used for JWT signing | Local development secret |
 
-## GitHub Repository
+## 🔗 Repository
 
-[Hospital Management System](https://github.com/Sumitsingh6923/hospital-management-system)
+https://github.com/Sumitsingh6923/hospital-management-system
 
-## Author
+## 👨‍💻 Author
 
-Sumit Singh
+**Sumit Singh**  
+GitHub: https://github.com/Sumitsingh6923
