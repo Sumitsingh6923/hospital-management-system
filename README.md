@@ -2,6 +2,28 @@
 
 A full-stack hospital management application for managing users, doctors, patients, and appointments. The project includes a Spring Boot REST API backend and a React + Vite frontend with protected routes and role-based access.
 
+## Screenshots
+
+### Dashboard
+
+![Hospital Admin Dashboard](docs/screenshots/dashboard.png)
+
+### Doctor Management
+
+![Doctor Management](docs/screenshots/doctor-management.png)
+
+### Patient Management
+
+![Patient Management](docs/screenshots/patient-management.png)
+
+### Admin Panel
+
+![Admin Panel](docs/screenshots/admin-panel.png)
+
+### Book Appointment
+
+![Book Appointment](docs/screenshots/book-appointment.png)
+
 ## Features
 
 - User registration and login with JWT authentication
